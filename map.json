@@ -20,12 +20,6 @@
          "id":15,
          "name":"Notely",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/note.ly\/conv7gbi3thmvpjn60fleepio"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":25,
