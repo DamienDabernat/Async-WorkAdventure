@@ -126,7 +126,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#start-floor"
                 }],
          "type":"tilelayer",
          "visible":true,
