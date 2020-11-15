@@ -245,7 +245,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"./school.png",
+         "image":"school.png",
          "imageheight":1408,
          "imagewidth":256,
          "margin":0,
@@ -394,7 +394,7 @@
         {
          "columns":8,
          "firstgid":353,
-         "image":"./garden.png",
+         "image":"garden.png",
          "imageheight":800,
          "imagewidth":256,
          "margin":0,
